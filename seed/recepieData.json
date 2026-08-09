@@ -1,0 +1,4342 @@
+[
+  {
+    "title": "Aloo Paratha",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 25,
+    "ingredients": [
+      {
+        "ingredientName": "Wheat flour",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Potato",
+        "quantity": "3",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Green chili",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Cumin seeds",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Ghee",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Boil and mash potatoes with onion, chili and cumin to make filling",
+      "Knead dough with flour and water, divide into balls",
+      "Stuff dough with potato filling and roll out gently",
+      "Cook on tawa with ghee until golden brown on both sides"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Anda Paratha",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 15,
+    "ingredients": [
+      {
+        "ingredientName": "Wheat flour",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Egg",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Green chili",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Salt",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Roll out plain paratha and half-cook on tawa",
+      "Beat egg with chopped onion, chili and salt",
+      "Pour egg mixture on paratha and fold, cook until egg sets",
+      "Flip and cook both sides until golden"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Cheese Omelette",
+    "category": "Nashta",
+    "cuisineType": "Continental",
+    "cookingTime": 10,
+    "ingredients": [
+      {
+        "ingredientName": "Egg",
+        "quantity": "3",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Cheese",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Salt",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Black pepper",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Butter",
+        "quantity": "1",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Whisk eggs with milk, salt and pepper",
+      "Heat butter in pan and pour egg mixture",
+      "Sprinkle cheese once eggs start to set",
+      "Fold omelette in half and serve hot"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Halwa Puri",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Wheat flour",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Semolina",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ghee",
+        "quantity": "4",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Cardamom powder",
+        "quantity": "0.5",
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      "Knead stiff dough with flour and water, rest for 20 minutes",
+      "Roll small circles and deep fry puris until puffed and golden",
+      "Roast semolina in ghee until golden, add sugar water and cardamom",
+      "Cook halwa until thick, serve with hot puris and chana"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Sheermal",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 45,
+    "ingredients": [
+      {
+        "ingredientName": "Refined flour",
+        "quantity": "3",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Yeast",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Saffron",
+        "quantity": "1",
+        "unit": "pinch"
+      },
+      {
+        "ingredientName": "Ghee",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Dissolve yeast and sugar in warm milk, rest 10 minutes",
+      "Knead dough with flour, ghee and yeast mixture, prove 1 hour",
+      "Shape into flat rounds and brush with saffron milk",
+      "Bake in oven until golden brown on top"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Suji Halwa",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 20,
+    "ingredients": [
+      {
+        "ingredientName": "Semolina",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "0.75",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ghee",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Water",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Almonds",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Cardamom powder",
+        "quantity": "0.5",
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      "Roast semolina in ghee until light golden and fragrant",
+      "Boil water with sugar to make syrup",
+      "Slowly add hot syrup to roasted semolina, stirring constantly",
+      "Cook until thick, garnish with almonds and cardamom"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chana Chaat",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 15,
+    "ingredients": [
+      {
+        "ingredientName": "Boiled chickpeas",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tamarind chutney",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Chaat masala",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Coriander",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Mix boiled chickpeas with chopped onion and tomato",
+      "Add tamarind chutney and chaat masala",
+      "Toss well and garnish with fresh coriander",
+      "Serve chilled or at room temperature"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Dahi Baray",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Lentils (urad daal)",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Tamarind chutney",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Cumin powder",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Red chili powder",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "2",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Soak and grind lentils into thick batter, whip until fluffy",
+      "Deep fry small balls until golden, soak in water then squeeze",
+      "Whisk yogurt with salt and layer over baray",
+      "Top with tamarind chutney and spices before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "French Toast",
+    "category": "Nashta",
+    "cuisineType": "Continental",
+    "cookingTime": 10,
+    "ingredients": [
+      {
+        "ingredientName": "Bread slices",
+        "quantity": "4",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Egg",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "0.25",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Cinnamon powder",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Butter",
+        "quantity": "1",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Whisk egg, milk, sugar and cinnamon together",
+      "Dip bread slices in egg mixture until coated",
+      "Fry on buttered pan until golden on both sides",
+      "Serve warm with honey or syrup"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Vegetable Omelette",
+    "category": "Nashta",
+    "cuisineType": "Continental",
+    "cookingTime": 10,
+    "ingredients": [
+      {
+        "ingredientName": "Egg",
+        "quantity": "3",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Capsicum",
+        "quantity": "0.25",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "0.5",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "0.5",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Salt",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "1",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Chop vegetables finely",
+      "Whisk eggs with salt and mix in vegetables",
+      "Pour onto hot oiled pan and cook until set",
+      "Fold and serve hot"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Paratha Roll",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 20,
+    "ingredients": [
+      {
+        "ingredientName": "Plain paratha",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Egg",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Chicken boti",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "0.5",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Mint chutney",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ketchup",
+        "quantity": "1",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Half fry paratha, crack egg on top and spread evenly",
+      "Cook until egg sets then flip briefly",
+      "Place cooked chicken boti, onion and chutney in center",
+      "Roll tightly and slice in half to serve"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Lassi Bowl with Fruits",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 10,
+    "ingredients": [
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Banana",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Mixed berries",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Blend yogurt, milk and sugar until smooth",
+      "Pour into a bowl",
+      "Top with sliced banana and berries",
+      "Serve chilled immediately"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Nihari",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 180,
+    "ingredients": [
+      {
+        "ingredientName": "Beef shank",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Wheat flour",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Nihari masala",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "2",
+        "unit": "piece"
+      }
+    ],
+    "instructions": [
+      "Fry sliced onion until golden and set aside for garnish",
+      "Cook beef with ginger garlic paste and nihari masala until browned",
+      "Add water and simmer on low heat for 3-4 hours until tender",
+      "Add flour slurry to thicken gravy, garnish with fried onion and ginger"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Karak Chai Toast",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 10,
+    "ingredients": [
+      {
+        "ingredientName": "Bread slices",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Butter",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Tea leaves",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Cardamom",
+        "quantity": "1",
+        "unit": "piece"
+      }
+    ],
+    "instructions": [
+      "Toast buttered bread slices until crisp",
+      "Boil milk with tea leaves, sugar and cardamom",
+      "Strain tea into cup",
+      "Serve hot karak chai alongside toast"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Besan Cheela",
+    "category": "Nashta",
+    "cuisineType": "Pakistani",
+    "cookingTime": 15,
+    "ingredients": [
+      {
+        "ingredientName": "Gram flour",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "0.5",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Green chili",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Coriander",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Salt",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Mix gram flour with water to form smooth batter",
+      "Add chopped onion, chili, coriander and salt",
+      "Pour thin layer on hot greased pan",
+      "Cook both sides until golden and crisp"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Karahi",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "4",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Green chili",
+        "quantity": "4",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Karahi masala",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Heat oil and fry chicken with ginger garlic paste until sealed",
+      "Add chopped tomatoes and cook until oil separates",
+      "Add karahi masala and green chilies, cook covered until chicken is tender",
+      "Garnish with ginger julienne and coriander"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Mutton Karahi",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 60,
+    "ingredients": [
+      {
+        "ingredientName": "Mutton",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "4",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Karahi masala",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Fry mutton in oil with ginger garlic paste until browned",
+      "Add yogurt and cook on medium heat until absorbed",
+      "Add tomatoes and cook until soft and oil separates",
+      "Add masala, cover and simmer until mutton is tender"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Qorma",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 45,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Qorma masala",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Fry sliced onions until golden brown and blend into paste",
+      "Fry chicken with ginger garlic paste until sealed",
+      "Add yogurt, onion paste and qorma masala, cook until oil separates",
+      "Add water, simmer covered until chicken is tender and gravy thickens"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Beef Qorma",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 90,
+    "ingredients": [
+      {
+        "ingredientName": "Beef",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Qorma masala",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Fry sliced onions golden and blend into paste",
+      "Brown beef pieces with ginger garlic paste",
+      "Add yogurt, onion paste and masala, cook until oil separates",
+      "Add water and simmer until beef is tender, about 1 hour"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Aloo Gosht",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 60,
+    "ingredients": [
+      {
+        "ingredientName": "Mutton",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Potato",
+        "quantity": "3",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "4",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Fry onions until golden, add ginger garlic paste and mutton",
+      "Cook mutton until browned, add tomatoes and spices",
+      "Add water and pressure cook or simmer until meat is tender",
+      "Add potatoes and cook until soft"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Palak Gosht",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 60,
+    "ingredients": [
+      {
+        "ingredientName": "Mutton",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Spinach",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Green chili",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "4",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Fry onions and ginger garlic paste, add mutton and brown well",
+      "Blanch and puree spinach",
+      "Add spinach puree to mutton along with green chilies",
+      "Simmer until mutton is tender and gravy thickens"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Bhindi Gosht",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 50,
+    "ingredients": [
+      {
+        "ingredientName": "Mutton",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Okra",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "4",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Fry okra separately until slightly crisp, set aside",
+      "Cook mutton with onion, ginger garlic paste and tomato until tender",
+      "Add fried okra to the mutton curry",
+      "Simmer briefly to combine flavors and serve"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Handi",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Cream",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Tomato paste",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Handi masala",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Fry chicken with ginger garlic paste until sealed",
+      "Add tomato paste and handi masala, cook until oil separates",
+      "Add cream and simmer until gravy thickens",
+      "Garnish with julienned ginger and green chili"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Jalfrezi",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Capsicum",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Soy sauce",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Stir fry chicken strips in oil until cooked through",
+      "Add sliced onion and capsicum, stir fry briefly",
+      "Add tomatoes and soy sauce, cook on high heat",
+      "Toss until sauce coats chicken and vegetables stay crisp"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Kadhai Chicken",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 35,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Capsicum",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "3",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Kadhai masala",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Fry chicken with ginger garlic paste until sealed",
+      "Add tomatoes and kadhai masala, cook until oil separates",
+      "Add capsicum and cook until chicken is tender",
+      "Garnish with coriander and serve hot"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Butter Chicken",
+    "category": "Main Course",
+    "cuisineType": "Continental",
+    "cookingTime": 45,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Butter",
+        "quantity": "4",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Tomato puree",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Cream",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Kasuri methi",
+        "quantity": "1",
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      "Marinate and grill chicken pieces until cooked",
+      "Cook tomato puree with butter and ginger garlic paste until thick",
+      "Add cream and kasuri methi, simmer to combine",
+      "Add grilled chicken and simmer until coated in sauce"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Curry",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 35,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Curry masala",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Fry onions until golden brown",
+      "Add ginger garlic paste and chicken, cook until sealed",
+      "Add tomatoes and masala, cook until oil separates",
+      "Add water and simmer until chicken is tender"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Mutton Curry",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 70,
+    "ingredients": [
+      {
+        "ingredientName": "Mutton",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Curry masala",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Fry onions until golden, add ginger garlic paste and mutton",
+      "Brown mutton pieces well on medium-high heat",
+      "Add tomatoes and masala, cook until oil separates",
+      "Add water, cover and simmer until mutton is tender"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Beef Nihari",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 200,
+    "ingredients": [
+      {
+        "ingredientName": "Beef shank",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Wheat flour",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Nihari masala",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      }
+    ],
+    "instructions": [
+      "Fry onion until golden, add ginger garlic paste and beef",
+      "Cook beef with nihari masala until browned",
+      "Add water and simmer on very low heat for 3-4 hours",
+      "Thicken with flour slurry and garnish with ginger julienne"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Haleem",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 180,
+    "ingredients": [
+      {
+        "ingredientName": "Wheat",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Chana daal",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Chicken",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Haleem masala",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ghee",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Soak wheat and lentils overnight, then boil until very soft",
+      "Cook chicken separately with masala until tender, then shred",
+      "Blend wheat and lentils to a coarse paste, combine with shredded chicken",
+      "Simmer together for 1-2 hours, stirring frequently, finish with ghee garnish"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Daal Chawal (Masoor)",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Masoor daal",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Garlic",
+        "quantity": "3",
+        "unit": "clove"
+      },
+      {
+        "ingredientName": "Cumin seeds",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Rice",
+        "quantity": "2",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Boil lentils with turmeric and salt until soft",
+      "Prepare tadka with fried onion, garlic and cumin seeds",
+      "Pour tadka over cooked daal and simmer briefly",
+      "Serve hot with steamed rice"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Daal Makhani",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 60,
+    "ingredients": [
+      {
+        "ingredientName": "Black lentils (urad)",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Red kidney beans",
+        "quantity": "0.25",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Butter",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Cream",
+        "quantity": "0.25",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Tomato puree",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Soak and boil lentils and beans until very soft",
+      "Cook tomato puree with butter and ginger garlic paste",
+      "Add boiled lentils and simmer on low heat for 30 minutes",
+      "Finish with cream and a knob of butter before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chana Masala",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Chickpeas",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Chana masala powder",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Fry onions until golden, add ginger garlic paste",
+      "Add tomatoes and masala, cook until oil separates",
+      "Add boiled chickpeas and a little water",
+      "Simmer until gravy thickens and flavors combine"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Rajma",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Red kidney beans",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Rajma masala",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Soak and boil kidney beans until soft",
+      "Prepare masala base with fried onion, tomato and ginger garlic paste",
+      "Add boiled beans and simmer with a little bean water",
+      "Cook until gravy thickens, mash a few beans for texture"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Aloo Palak",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Potato",
+        "quantity": "3",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Spinach",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Garlic",
+        "quantity": "3",
+        "unit": "clove"
+      },
+      {
+        "ingredientName": "Cumin seeds",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Boil and blanch spinach, then puree",
+      "Fry onion and garlic with cumin seeds",
+      "Add diced potatoes and cook until half done",
+      "Add spinach puree and simmer until potatoes are fully cooked"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Bhindi Fry",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 20,
+    "ingredients": [
+      {
+        "ingredientName": "Okra",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Turmeric powder",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Red chili powder",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Wash and dry okra thoroughly, slice lengthwise",
+      "Fry okra in oil until edges are crisp",
+      "Add onion and tomato, cook until softened",
+      "Season with spices and cook uncovered until dry"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Baingan Bharta",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Eggplant",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Garlic",
+        "quantity": "3",
+        "unit": "clove"
+      },
+      {
+        "ingredientName": "Green chili",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Roast whole eggplant over flame until skin is charred and flesh soft",
+      "Peel and mash the roasted eggplant",
+      "Fry onion, garlic, tomato and chili until soft",
+      "Add mashed eggplant and cook until well combined"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Karela Gosht",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 50,
+    "ingredients": [
+      {
+        "ingredientName": "Mutton",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Bitter gourd",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.25",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "4",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Salt bitter gourd and rest 20 minutes, then rinse and fry until crisp",
+      "Cook mutton with onion, ginger garlic paste and yogurt until tender",
+      "Add fried bitter gourd to the mutton curry",
+      "Simmer briefly to blend flavors before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Mix Vegetable Curry",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Mixed vegetables",
+        "quantity": "3",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Curry powder",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Fry onion until golden, add ginger garlic paste",
+      "Add tomatoes and curry powder, cook until oil separates",
+      "Add mixed vegetables and a little water",
+      "Cover and simmer until vegetables are tender"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Shami Kabab Curry",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Shami kababs",
+        "quantity": "8",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.25",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Prepare gravy by frying onion, tomato and ginger garlic paste",
+      "Add yogurt and cook until oil separates",
+      "Gently place shami kababs into the gravy",
+      "Simmer on low heat for 10 minutes without breaking kababs"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Kofta Curry",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 45,
+    "ingredients": [
+      {
+        "ingredientName": "Minced meat",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.25",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Shape minced meat into balls (koftas)",
+      "Prepare gravy with fried onion, tomato, yogurt and spices",
+      "Gently drop koftas into simmering gravy",
+      "Cook covered on low heat until koftas are cooked through"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Tikka Masala",
+    "category": "Main Course",
+    "cuisineType": "Continental",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Tomato puree",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Cream",
+        "quantity": "0.25",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Tikka masala",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and tikka masala, then grill or bake",
+      "Cook tomato puree with oil until thickened",
+      "Add cream and simmer to make sauce",
+      "Add grilled chicken tikka pieces and simmer briefly"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Fish Curry",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Fish fillets",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Fish curry masala",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Marinate fish lightly with turmeric and salt",
+      "Prepare gravy with fried onion, tomato and masala",
+      "Add water and bring to a simmer",
+      "Gently add fish pieces and cook until just done"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Prawn Masala",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 25,
+    "ingredients": [
+      {
+        "ingredientName": "Prawns",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Prawn masala",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Clean and devein prawns",
+      "Prepare masala base with fried onion and tomato",
+      "Add prawns and cook on medium heat",
+      "Cook until prawns turn pink, do not overcook"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Achari Chicken",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 35,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Mustard oil",
+        "quantity": "0.25",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Achar masala",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Fennel seeds",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      }
+    ],
+    "instructions": [
+      "Heat mustard oil until smoking, then cool slightly",
+      "Fry onion and add chicken with achar masala and fennel seeds",
+      "Add tomatoes and cook until oil separates",
+      "Simmer covered until chicken is tender and tangy"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Do Pyaza",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "4",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Do pyaza masala",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Fry half the onions until golden and set aside",
+      "Cook chicken with remaining onion, tomato and masala",
+      "Add fried onion back in towards the end of cooking",
+      "Simmer until chicken is tender and gravy thickens"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Mutton Rara",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 60,
+    "ingredients": [
+      {
+        "ingredientName": "Mutton",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Minced mutton",
+        "quantity": "0.25",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "4",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Cook mutton pieces with onion and spices until tender",
+      "Separately fry minced mutton until browned and crumbly",
+      "Combine both mutton preparations in one pan",
+      "Simmer together for 10 minutes to blend flavors"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chapli Kabab",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Minced beef",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Coriander seeds crushed",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Egg",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Mix minced beef with chopped tomato, onion, spices and egg",
+      "Shape mixture into flat round patties",
+      "Shallow fry in hot oil until browned on both sides",
+      "Drain excess oil and serve hot"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Seekh Kabab",
+    "category": "Main Course",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Minced meat",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Red chili powder",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Garam masala",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Mix minced meat with grated onion, ginger garlic paste and spices",
+      "Knead mixture well and shape onto skewers",
+      "Grill or pan fry until cooked through and charred",
+      "Serve hot with mint chutney and naan"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Grilled Chicken",
+    "category": "Main Course",
+    "cuisineType": "Continental",
+    "cookingTime": 35,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Lemon juice",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Mixed herbs",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt, lemon juice, garlic and herbs for 1 hour",
+      "Preheat grill or pan on medium-high heat",
+      "Grill chicken pieces, basting occasionally with oil",
+      "Cook until internal temperature is safe and juices run clear"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Biryani",
+    "category": "Rice & Biryani",
+    "cuisineType": "Pakistani",
+    "cookingTime": 60,
+    "ingredients": [
+      {
+        "ingredientName": "Rice",
+        "quantity": "3",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Chicken",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Biryani masala",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Fried onion",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Cook chicken with yogurt, biryani masala and fried onion until tender",
+      "Parboil rice separately with whole spices until 70% done",
+      "Layer rice over chicken gravy in a pot",
+      "Cover and cook on low heat (dum) for 20 minutes before mixing gently"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Mutton Biryani",
+    "category": "Rice & Biryani",
+    "cuisineType": "Pakistani",
+    "cookingTime": 90,
+    "ingredients": [
+      {
+        "ingredientName": "Rice",
+        "quantity": "3",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Mutton",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Biryani masala",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Fried onion",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Cook mutton with yogurt and biryani masala until tender",
+      "Parboil rice with whole spices until partially done",
+      "Layer rice over mutton gravy and fried onion",
+      "Seal and cook on dum for 25-30 minutes before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Vegetable Pulao",
+    "category": "Rice & Biryani",
+    "cuisineType": "Pakistani",
+    "cookingTime": 35,
+    "ingredients": [
+      {
+        "ingredientName": "Rice",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Mixed vegetables",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Whole spices",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Fry onion and whole spices in oil until fragrant",
+      "Add vegetables and ginger garlic paste, sauté briefly",
+      "Add soaked rice and water, bring to a boil",
+      "Cover and cook on low heat until rice is fluffy"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Pulao",
+    "category": "Rice & Biryani",
+    "cuisineType": "Pakistani",
+    "cookingTime": 45,
+    "ingredients": [
+      {
+        "ingredientName": "Rice",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Chicken",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Whole spices",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "4",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Fry onion until golden, add chicken and ginger garlic paste",
+      "Cook chicken until sealed, add whole spices and water to make yakhni",
+      "Strain stock, add soaked rice to the stock and bring to boil",
+      "Cover and cook on low heat until rice is done, then fold in chicken"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Yakhni Pulao",
+    "category": "Rice & Biryani",
+    "cuisineType": "Pakistani",
+    "cookingTime": 60,
+    "ingredients": [
+      {
+        "ingredientName": "Rice",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Mutton",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Whole spices",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.25",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Boil mutton with whole spices to make a fragrant stock (yakhni)",
+      "Strain stock and reserve meat separately",
+      "Fry onion, add yogurt and meat, then add strained stock and rice",
+      "Cook covered on low heat until rice is fluffy and fully cooked"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Beef Biryani",
+    "category": "Rice & Biryani",
+    "cuisineType": "Pakistani",
+    "cookingTime": 80,
+    "ingredients": [
+      {
+        "ingredientName": "Rice",
+        "quantity": "3",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Beef",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Biryani masala",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Fried onion",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Cook beef with yogurt and biryani masala until tender",
+      "Parboil rice with whole spices",
+      "Layer rice over beef gravy with fried onion and herbs",
+      "Cook on dum for 25 minutes before mixing gently and serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Kabuli Pulao",
+    "category": "Rice & Biryani",
+    "cuisineType": "Pakistani",
+    "cookingTime": 60,
+    "ingredients": [
+      {
+        "ingredientName": "Rice",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Mutton",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Carrot",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Raisins",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "4",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Cook mutton with onion and whole spices until tender, reserve stock",
+      "Julienne and lightly fry carrots with raisins until caramelized",
+      "Cook rice in the reserved mutton stock until fluffy",
+      "Layer rice with mutton and top with caramelized carrots and raisins"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Matar Pulao",
+    "category": "Rice & Biryani",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Rice",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Green peas",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Whole spices",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ginger garlic paste",
+        "quantity": "1",
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      "Fry onion and whole spices until fragrant",
+      "Add peas and ginger garlic paste, sauté briefly",
+      "Add soaked rice and appropriate water, bring to boil",
+      "Cover and simmer on low heat until rice is fully cooked"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Egg Fried Rice",
+    "category": "Rice & Biryani",
+    "cuisineType": "Continental",
+    "cookingTime": 20,
+    "ingredients": [
+      {
+        "ingredientName": "Cooked rice",
+        "quantity": "3",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Egg",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Spring onion",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Soy sauce",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Garlic",
+        "quantity": "2",
+        "unit": "clove"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Scramble eggs in hot oil and set aside",
+      "Sauté garlic and spring onion briefly",
+      "Add cooked rice and soy sauce, stir fry on high heat",
+      "Fold in scrambled eggs and toss to combine"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Zarda (Sweet Rice)",
+    "category": "Rice & Biryani",
+    "cuisineType": "Pakistani",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Rice",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ghee",
+        "quantity": "4",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Yellow food color",
+        "quantity": "1",
+        "unit": "pinch"
+      },
+      {
+        "ingredientName": "Almonds",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Cardamom",
+        "quantity": "3",
+        "unit": "piece"
+      }
+    ],
+    "instructions": [
+      "Parboil rice with cardamom until nearly cooked, drain",
+      "Melt ghee and add sugar with a little water to make syrup",
+      "Add rice and food color to the syrup, cook on low heat covered",
+      "Garnish with almonds before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Samosa",
+    "category": "Snacks",
+    "cuisineType": "Pakistani",
+    "cookingTime": 45,
+    "ingredients": [
+      {
+        "ingredientName": "Samosa patti",
+        "quantity": "10",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Potato",
+        "quantity": "3",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Green peas",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Cumin seeds",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Green chili",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "2",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Boil and mash potatoes, mix with peas and spices",
+      "Fill samosa patti with potato mixture and fold into triangles",
+      "Seal edges with flour paste",
+      "Deep fry until golden and crisp"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Pakora",
+    "category": "Snacks",
+    "cuisineType": "Pakistani",
+    "cookingTime": 25,
+    "ingredients": [
+      {
+        "ingredientName": "Gram flour",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Potato",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Green chili",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Red chili powder",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "2",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Slice onion and potato thinly",
+      "Mix with gram flour, spices and a little water to form thick batter",
+      "Drop spoonfuls into hot oil",
+      "Fry until golden and crisp, drain excess oil"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Spring Rolls",
+    "category": "Snacks",
+    "cuisineType": "Continental",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Spring roll wrappers",
+        "quantity": "10",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Cabbage",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Carrot",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Capsicum",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Soy sauce",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "2",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Julienne vegetables and stir fry with soy sauce until slightly soft",
+      "Cool filling before wrapping",
+      "Fill wrappers and roll tightly, sealing edges with water",
+      "Deep fry until golden and crisp"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Roll",
+    "category": "Snacks",
+    "cuisineType": "Pakistani",
+    "cookingTime": 25,
+    "ingredients": [
+      {
+        "ingredientName": "Paratha",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Chicken boti",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Onion",
+        "quantity": "0.5",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Mint chutney",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ketchup",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Lettuce",
+        "quantity": "2",
+        "unit": "leaf"
+      }
+    ],
+    "instructions": [
+      "Cook chicken boti with spices until done",
+      "Warm paratha lightly on tawa",
+      "Layer chutney, chicken, onion and lettuce on paratha",
+      "Roll tightly and slice to serve"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Vegetable Cutlet",
+    "category": "Snacks",
+    "cuisineType": "Continental",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Boiled potato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Mixed vegetables",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Bread crumbs",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Corn flour",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Salt",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "1",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Mash potatoes and mix with finely chopped boiled vegetables",
+      "Season and shape mixture into flat patties",
+      "Coat patties in corn flour slurry and bread crumbs",
+      "Shallow fry until golden and crisp on both sides"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Aloo Tikki",
+    "category": "Snacks",
+    "cuisineType": "Pakistani",
+    "cookingTime": 25,
+    "ingredients": [
+      {
+        "ingredientName": "Potato",
+        "quantity": "4",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Corn flour",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Green chili",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Coriander",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Chaat masala",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Boil and mash potatoes until smooth",
+      "Mix in corn flour, chopped chili, coriander and chaat masala",
+      "Shape into small round patties",
+      "Shallow fry until golden and crisp on both sides"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Dahi Phulki",
+    "category": "Snacks",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Gram flour",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Tamarind chutney",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Cumin powder",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Baking soda",
+        "quantity": "0.25",
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      "Whip gram flour batter with baking soda until fluffy",
+      "Deep fry small drops of batter until golden",
+      "Soak fried phulki in water briefly, then squeeze out",
+      "Layer with whisked yogurt and tamarind chutney before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Papri Chaat",
+    "category": "Snacks",
+    "cuisineType": "Pakistani",
+    "cookingTime": 20,
+    "ingredients": [
+      {
+        "ingredientName": "Papri",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Boiled chickpeas",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Potato",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Tamarind chutney",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Chaat masala",
+        "quantity": "1",
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      "Arrange papri on a serving plate",
+      "Top with boiled chickpeas and diced boiled potato",
+      "Drizzle with whisked yogurt and tamarind chutney",
+      "Sprinkle chaat masala and serve immediately"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Fruit Chaat",
+    "category": "Snacks",
+    "cuisineType": "Pakistani",
+    "cookingTime": 15,
+    "ingredients": [
+      {
+        "ingredientName": "Apple",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Banana",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Pomegranate",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Grapes",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Chaat masala",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Lemon juice",
+        "quantity": "1",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Chop all fruits into bite-sized pieces",
+      "Combine in a large bowl",
+      "Sprinkle chaat masala and lemon juice",
+      "Toss gently and serve chilled"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Sandwich Club",
+    "category": "Snacks",
+    "cuisineType": "Continental",
+    "cookingTime": 15,
+    "ingredients": [
+      {
+        "ingredientName": "Bread slices",
+        "quantity": "3",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Chicken slices",
+        "quantity": "4",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Lettuce",
+        "quantity": "2",
+        "unit": "leaf"
+      },
+      {
+        "ingredientName": "Tomato",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Mayonnaise",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Cheese slice",
+        "quantity": "1",
+        "unit": "piece"
+      }
+    ],
+    "instructions": [
+      "Toast bread slices lightly",
+      "Spread mayonnaise on each slice",
+      "Layer chicken, cheese, lettuce and tomato between slices",
+      "Cut diagonally and secure with toothpicks"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Nuggets Homemade",
+    "category": "Snacks",
+    "cuisineType": "Continental",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken breast",
+        "quantity": "0.5",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Bread crumbs",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Egg",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Flour",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Salt",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "1",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Cut chicken breast into bite-sized pieces",
+      "Coat pieces in flour, then beaten egg, then bread crumbs",
+      "Rest coated pieces in fridge for 15 minutes",
+      "Deep fry until golden and cooked through"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "French Fries",
+    "category": "Snacks",
+    "cuisineType": "Continental",
+    "cookingTime": 25,
+    "ingredients": [
+      {
+        "ingredientName": "Potato",
+        "quantity": "4",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Salt",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "2",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Cut potatoes into even strips and soak in water for 20 minutes",
+      "Dry thoroughly and fry once at medium heat until soft",
+      "Fry a second time at high heat until golden and crisp",
+      "Drain and season with salt immediately"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Bread Pakora",
+    "category": "Snacks",
+    "cuisineType": "Pakistani",
+    "cookingTime": 20,
+    "ingredients": [
+      {
+        "ingredientName": "Bread slices",
+        "quantity": "4",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Gram flour",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Green chili",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Cumin seeds",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Salt",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "1",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Prepare thick gram flour batter with spices and water",
+      "Cut bread slices diagonally into triangles",
+      "Dip bread in batter, coating fully",
+      "Deep fry until golden brown and crisp"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chicken Corn Soup",
+    "category": "Snacks",
+    "cuisineType": "Continental",
+    "cookingTime": 25,
+    "ingredients": [
+      {
+        "ingredientName": "Chicken boiled shredded",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sweet corn",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Egg",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Corn flour",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Chicken stock",
+        "quantity": "4",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Soy sauce",
+        "quantity": "1",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Bring chicken stock to a boil and add corn and shredded chicken",
+      "Mix corn flour with water and add to thicken soup",
+      "Drizzle beaten egg slowly while stirring to form ribbons",
+      "Season with soy sauce and simmer briefly before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Vegetable Soup",
+    "category": "Snacks",
+    "cuisineType": "Continental",
+    "cookingTime": 20,
+    "ingredients": [
+      {
+        "ingredientName": "Mixed vegetables",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Vegetable stock",
+        "quantity": "4",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Garlic",
+        "quantity": "2",
+        "unit": "clove"
+      },
+      {
+        "ingredientName": "Corn flour",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Black pepper",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Butter",
+        "quantity": "1",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Sauté garlic in butter until fragrant",
+      "Add chopped vegetables and stock, bring to a boil",
+      "Simmer until vegetables are tender",
+      "Thicken slightly with corn flour slurry and season with pepper"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Kheer",
+    "category": "Dessert",
+    "cuisineType": "Pakistani",
+    "cookingTime": 45,
+    "ingredients": [
+      {
+        "ingredientName": "Rice",
+        "quantity": "0.25",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "1",
+        "unit": "l"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Cardamom powder",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Almonds",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Pistachios",
+        "quantity": "1",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Soak rice for 20 minutes then boil in milk until soft",
+      "Simmer on low heat, stirring often, until mixture thickens",
+      "Add sugar and cardamom powder, cook a few more minutes",
+      "Garnish with almonds and pistachios, serve warm or chilled"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Gulab Jamun",
+    "category": "Dessert",
+    "cuisineType": "Pakistani",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Milk powder",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Flour",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Water",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "2",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Make sugar syrup by boiling sugar and water together, keep warm",
+      "Knead milk powder, flour and milk into a soft dough",
+      "Shape into smooth balls, ensuring no cracks",
+      "Deep fry on low heat until deep golden, then soak in warm syrup"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Gajar Halwa",
+    "category": "Dessert",
+    "cuisineType": "Pakistani",
+    "cookingTime": 50,
+    "ingredients": [
+      {
+        "ingredientName": "Carrot",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "1",
+        "unit": "l"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "0.75",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ghee",
+        "quantity": "4",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Khoya",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Almonds",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Grate carrots finely",
+      "Cook grated carrots in milk until milk reduces and carrots soften",
+      "Add sugar and ghee, cook until mixture thickens",
+      "Fold in khoya and garnish with almonds before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Sheer Khurma",
+    "category": "Dessert",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Vermicelli",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "1",
+        "unit": "l"
+      },
+      {
+        "ingredientName": "Dates",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ghee",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Mixed nuts",
+        "quantity": "0.25",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Roast vermicelli in ghee until light golden",
+      "Boil milk and add roasted vermicelli",
+      "Add chopped dates, nuts and sugar, simmer until thickened",
+      "Serve warm garnished with extra nuts"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Ras Malai",
+    "category": "Dessert",
+    "cuisineType": "Pakistani",
+    "cookingTime": 60,
+    "ingredients": [
+      {
+        "ingredientName": "Milk",
+        "quantity": "2",
+        "unit": "l"
+      },
+      {
+        "ingredientName": "Lemon juice",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Cardamom powder",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Pistachios",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Saffron",
+        "quantity": "1",
+        "unit": "pinch"
+      }
+    ],
+    "instructions": [
+      "Curdle milk with lemon juice to make paneer, drain and knead smooth",
+      "Shape paneer into small flat discs",
+      "Boil discs in sugar syrup until they double in size",
+      "Soak cooked discs in reduced sweetened milk flavored with cardamom and saffron"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Kulfi",
+    "category": "Dessert",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Milk",
+        "quantity": "1",
+        "unit": "l"
+      },
+      {
+        "ingredientName": "Condensed milk",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Cardamom powder",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Pistachios",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Almonds",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Boil milk until reduced to half, stirring frequently",
+      "Add condensed milk and cardamom powder, mix well",
+      "Pour into kulfi molds and add chopped nuts",
+      "Freeze for at least 6 hours until set"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Custard",
+    "category": "Dessert",
+    "cuisineType": "Continental",
+    "cookingTime": 20,
+    "ingredients": [
+      {
+        "ingredientName": "Milk",
+        "quantity": "1",
+        "unit": "l"
+      },
+      {
+        "ingredientName": "Custard powder",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Mixed fruits",
+        "quantity": "1",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Mix custard powder with a little cold milk to form paste",
+      "Boil remaining milk with sugar",
+      "Add custard paste to boiling milk, stirring continuously until thick",
+      "Cool slightly and fold in chopped fruits before chilling"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Fruit Trifle",
+    "category": "Dessert",
+    "cuisineType": "Continental",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Sponge cake",
+        "quantity": "4",
+        "unit": "slice"
+      },
+      {
+        "ingredientName": "Custard",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Mixed fruits",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Whipped cream",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Jelly",
+        "quantity": "1",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Layer sponge cake pieces at the bottom of a glass dish",
+      "Add a layer of jelly followed by custard",
+      "Add chopped fruits and repeat layers",
+      "Top with whipped cream and chill before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Jalebi",
+    "category": "Dessert",
+    "cuisineType": "Pakistani",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Flour",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "1.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Water",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Yellow food color",
+        "quantity": "1",
+        "unit": "pinch"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "2",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Mix flour, yogurt and water into a smooth fermented-style batter, rest 8 hours",
+      "Prepare sugar syrup with water and food color, keep warm",
+      "Pipe batter into hot oil in spiral shapes and fry until crisp",
+      "Soak fried jalebi in warm syrup for a minute before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Barfi",
+    "category": "Dessert",
+    "cuisineType": "Pakistani",
+    "cookingTime": 35,
+    "ingredients": [
+      {
+        "ingredientName": "Milk powder",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Condensed milk",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ghee",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Cardamom powder",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Pistachios",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Heat ghee and add milk powder, mixing continuously",
+      "Add condensed milk and cardamom, cook until mixture thickens into dough",
+      "Spread mixture onto a greased tray and smooth the top",
+      "Garnish with pistachios, cool and cut into squares"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Rice Pudding",
+    "category": "Dessert",
+    "cuisineType": "Continental",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Rice",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "1",
+        "unit": "l"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Cinnamon powder",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Raisins",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Boil rice in milk on low heat until soft and creamy",
+      "Add sugar and cinnamon, cook until desired thickness",
+      "Stir in raisins",
+      "Serve warm or chilled with a cinnamon dusting"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Shahi Tukda",
+    "category": "Dessert",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Bread slices",
+        "quantity": "4",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "1",
+        "unit": "l"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ghee for frying",
+        "quantity": "0.25",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Almonds",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Saffron",
+        "quantity": "1",
+        "unit": "pinch"
+      }
+    ],
+    "instructions": [
+      "Fry bread slices in ghee until golden and crisp, cut diagonally",
+      "Reduce milk with sugar and saffron until thickened (rabri)",
+      "Arrange fried bread in a dish and pour rabri over it",
+      "Garnish with almonds and chill before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Malpora",
+    "category": "Dessert",
+    "cuisineType": "Pakistani",
+    "cookingTime": 30,
+    "ingredients": [
+      {
+        "ingredientName": "Flour",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Fennel seeds",
+        "quantity": "0.5",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Sugar syrup",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Oil for frying",
+        "quantity": "1",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Make a smooth batter with flour, milk, sugar and fennel seeds",
+      "Rest batter for 20 minutes",
+      "Pour small rounds of batter into hot oil and fry until golden",
+      "Soak fried malpora in sugar syrup briefly before serving"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Sooji Cake",
+    "category": "Dessert",
+    "cuisineType": "Continental",
+    "cookingTime": 40,
+    "ingredients": [
+      {
+        "ingredientName": "Semolina",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "0.75",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Oil",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Baking powder",
+        "quantity": "1",
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      "Mix semolina, yogurt, sugar and oil into a smooth batter, rest 15 minutes",
+      "Add baking powder and mix gently",
+      "Pour batter into greased cake tin",
+      "Bake at 180C for 25-30 minutes until a skewer comes out clean"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Chocolate Mousse",
+    "category": "Dessert",
+    "cuisineType": "Continental",
+    "cookingTime": 20,
+    "ingredients": [
+      {
+        "ingredientName": "Dark chocolate",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "ingredientName": "Whipped cream",
+        "quantity": "1.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Egg",
+        "quantity": "2",
+        "unit": "piece"
+      }
+    ],
+    "instructions": [
+      "Melt chocolate gently over a double boiler, cool slightly",
+      "Whisk egg yolks with sugar until pale, fold into melted chocolate",
+      "Fold in whipped cream gently to keep mixture airy",
+      "Divide into serving cups and chill for at least 2 hours"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Doodh Patti Chai",
+    "category": "Beverage",
+    "cuisineType": "Pakistani",
+    "cookingTime": 10,
+    "ingredients": [
+      {
+        "ingredientName": "Milk",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Water",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Tea leaves",
+        "quantity": "2",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Boil milk and water together",
+      "Add tea leaves and boil until color develops",
+      "Add sugar and simmer briefly",
+      "Strain into cups and serve hot"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Green Tea",
+    "category": "Beverage",
+    "cuisineType": "Continental",
+    "cookingTime": 5,
+    "ingredients": [
+      {
+        "ingredientName": "Green tea bag",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Water",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Honey",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Lemon slice",
+        "quantity": "1",
+        "unit": "piece"
+      }
+    ],
+    "instructions": [
+      "Boil water and let it cool slightly",
+      "Steep green tea bag for 2-3 minutes",
+      "Remove tea bag and add honey and lemon",
+      "Stir and serve warm"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Mango Lassi",
+    "category": "Beverage",
+    "cuisineType": "Pakistani",
+    "cookingTime": 10,
+    "ingredients": [
+      {
+        "ingredientName": "Mango pulp",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Yogurt",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Combine mango pulp, yogurt, milk and sugar in blender",
+      "Blend until smooth and frothy",
+      "Adjust consistency with more milk if needed",
+      "Pour into glasses and serve chilled"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Rooh Afza Sharbat",
+    "category": "Beverage",
+    "cuisineType": "Pakistani",
+    "cookingTime": 5,
+    "ingredients": [
+      {
+        "ingredientName": "Rooh Afza syrup",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Water",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ice cubes",
+        "quantity": "1",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Pour rooh afza syrup into a glass",
+      "Add chilled water and stir well",
+      "Add ice cubes",
+      "Serve immediately"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Lemon Mint Cooler",
+    "category": "Beverage",
+    "cuisineType": "Continental",
+    "cookingTime": 10,
+    "ingredients": [
+      {
+        "ingredientName": "Lemon juice",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Mint leaves",
+        "quantity": "10",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Water",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Ice cubes",
+        "quantity": "1",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Muddle mint leaves gently with sugar",
+      "Add lemon juice and water, stir until sugar dissolves",
+      "Strain if desired and add ice cubes",
+      "Garnish with a mint sprig and serve"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Fresh Orange Juice",
+    "category": "Beverage",
+    "cuisineType": "Continental",
+    "cookingTime": 10,
+    "ingredients": [
+      {
+        "ingredientName": "Orange",
+        "quantity": "4",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ice cubes",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Juice the oranges using a juicer or by hand",
+      "Strain juice to remove excess pulp if preferred",
+      "Add sugar and stir to dissolve",
+      "Pour over ice and serve immediately"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Sugarcane Juice",
+    "category": "Beverage",
+    "cuisineType": "Pakistani",
+    "cookingTime": 10,
+    "ingredients": [
+      {
+        "ingredientName": "Sugarcane",
+        "quantity": "4",
+        "unit": "stick"
+      },
+      {
+        "ingredientName": "Ginger",
+        "quantity": "1",
+        "unit": "small piece"
+      },
+      {
+        "ingredientName": "Lemon juice",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ice cubes",
+        "quantity": "0.5",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Extract juice from sugarcane using a juicer along with ginger",
+      "Strain juice into a glass",
+      "Add lemon juice and stir",
+      "Serve over ice immediately for best taste"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Falooda",
+    "category": "Beverage",
+    "cuisineType": "Pakistani",
+    "cookingTime": 20,
+    "ingredients": [
+      {
+        "ingredientName": "Falooda sev",
+        "quantity": "0.5",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Milk",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Rooh Afza syrup",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ice cream",
+        "quantity": "2",
+        "unit": "scoop"
+      },
+      {
+        "ingredientName": "Basil seeds soaked",
+        "quantity": "2",
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Layer soaked basil seeds and falooda sev at the bottom of a glass",
+      "Add rooh afza syrup",
+      "Pour chilled milk over the layers",
+      "Top with a scoop of ice cream and serve immediately"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Cold Coffee",
+    "category": "Beverage",
+    "cuisineType": "Continental",
+    "cookingTime": 10,
+    "ingredients": [
+      {
+        "ingredientName": "Milk",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Instant coffee",
+        "quantity": "2",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Ice cubes",
+        "quantity": "1",
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Combine milk, coffee and sugar in a blender",
+      "Blend until frothy and well combined",
+      "Add ice cubes and blend briefly again",
+      "Pour into glasses and serve immediately"
+    ],
+    "source": "system"
+  },
+  {
+    "title": "Badam Milk",
+    "category": "Beverage",
+    "cuisineType": "Pakistani",
+    "cookingTime": 15,
+    "ingredients": [
+      {
+        "ingredientName": "Milk",
+        "quantity": "2",
+        "unit": "cup"
+      },
+      {
+        "ingredientName": "Almonds soaked",
+        "quantity": "10",
+        "unit": "piece"
+      },
+      {
+        "ingredientName": "Sugar",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "ingredientName": "Cardamom powder",
+        "quantity": "0.25",
+        "unit": "tsp"
+      },
+      {
+        "ingredientName": "Saffron",
+        "quantity": "1",
+        "unit": "pinch"
+      }
+    ],
+    "instructions": [
+      "Peel and grind soaked almonds into a fine paste",
+      "Boil milk with sugar and almond paste",
+      "Add cardamom powder and saffron, simmer for 5 minutes",
+      "Serve warm or chilled"
+    ],
+    "source": "system"
+  }
+]
