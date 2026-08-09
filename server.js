@@ -21,7 +21,7 @@ mongoDB(process.env.MONGODB_URI)
 })
 
 const app = express()
-const port = process.env.PORT || 3000
+const PORT = process.env.PORT || 3000
 
 
 app.use(express.json())
@@ -40,4 +40,4 @@ app.use("/api/pantry-item", pantryRouter)
 app.use("/api/suggestion",suggestionRouter)
 app.use("/api/saved-item", savedRouter)
 
-app.listen(port,()=>{console.log(`Server started at port:${port}`)})
+app.listen(PORT,()=>{console.log(`Server started at PORT:${PORT}`)})
