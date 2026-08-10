@@ -18,7 +18,10 @@ async function handleCreatePantryItem(req,res){
     try {    
 
         const {ingredientName} = req.body
-        const item = await pantryItem.findOne({ingredientName})
+        const item = await pantryItem.findOne({
+            ingredientName,
+            user: req.user.id
+        })
         if(item){
             return res.status(409).json({msg:"Already ingredient exist"})
         }
