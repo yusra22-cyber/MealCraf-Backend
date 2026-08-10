@@ -54,7 +54,7 @@ async function handleCreateUserRecepie(req,res){
             finalQuantity = Number(quantity)
         }
 
-        if(NaN(finalQuantity)){
+        if(isNaN(finalQuantity)){
             return res.status(400).json({ msg: "Invalid quantity value" })
         }
 
