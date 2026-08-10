@@ -39,10 +39,7 @@ async function handleGetUserRecepieById (req,res){
 async function handleCreateUserRecepie(req,res){
     try {
         const {title} = req.body
-        const recepie = await systemRecepie.findOne({
-            title,
-            user:req.user.id
-        })
+        const recepie = await systemRecepie.findOne({title})
 
         if(recepie){
             return res.status(409).json({msg:"Already recepie exist"})
