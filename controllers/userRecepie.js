@@ -36,38 +36,46 @@ async function handleGetUserRecepieById (req,res){
 
 // create the data using post
 
-async function handleCreateUserRecepie(req,res){
+async function handleCreateUserRecepie(req, res) {
     try {
-        const {title, quantity} = req.body
-        const recepie = await systemRecepie.findOne({title})
+        const { title, ingredients } = req.body;
 
-        if(recepie){
-            return res.status(409).json({msg:"Already recepie exist"})
+        const recepie = await systemRecepie.findOne({ title });
+
+        if (recepie) {
+            return res.status(409).json({ msg: "Already recepie exist" });
         }
 
-        let finalQuantity
+        const processedIngredients = ingredients.map((ing) => {
+            let finalQuantity
 
-        if(typeof quantity === "string" && quantity.includes("/")){
-            const [numerator, denominator] = quantity.split("/").map(Number)
-            finalQuantity = numerator / denominator
-        } else {
-            finalQuantity = Number(quantity)
-        }
+            if (typeof ing.quantity === "string" && ing.quantity.includes("/")) {
+                const [numerator, denominator] = ing.quantity.split("/").map(Number)
+                finalQuantity = numerator / denominator;
+            } else {
+                finalQuantity = Number(ing.quantity)
+            }
 
-        if(isNaN(finalQuantity)){
-            return res.status(400).json({ msg: "Invalid quantity value" })
-        }
+            if (isNaN(finalQuantity)) {
+                throw new Error(`Invalid quantity for ingredient: ${ing.ingredientName}`)
+            }
+
+            return { ...ing, quantity: finalQuantity }
+        });
 
         const newRecepie = await userRecepie.create({
             ...req.body,
-            quantity: finalQuantity,
-            createdBY:req.user.id
+            ingredients: processedIngredients,
+            createdBY: req.user.id
         })
 
-        return res.status(201).json(newRecepie)
+        return res.status(201).json(newRecepie);
     } catch (err) {
-        console.log(err)
-        res.status(500).json({err:"Internal server error"})
+        console.log(err);
+        if (err.message?.startsWith("Invalid quantity")) {
+            return res.status(400).json({ msg: err.message });
+        }
+        return res.status(500).json({ err: "Internal server error" });
     }
 }
 
