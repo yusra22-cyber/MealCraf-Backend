@@ -38,15 +38,29 @@ async function handleGetUserRecepieById (req,res){
 
 async function handleCreateUserRecepie(req,res){
     try {
-        const {title} = req.body
+        const {title, quantity} = req.body
         const recepie = await systemRecepie.findOne({title})
 
         if(recepie){
             return res.status(409).json({msg:"Already recepie exist"})
         }
 
+        let finalQuantity
+
+        if(typeof quantity === "string" && quantity.includes("/")){
+            const [numerator, denominator] = quantity.split("/").map(Number)
+            finalQuantity = numerator / denominator
+        } else {
+            finalQuantity = Number(quantity)
+        }
+
+        if(NaN(finalQuantity)){
+            return res.status(400).json({ msg: "Invalid quantity value" })
+        }
+
         const newRecepie = await userRecepie.create({
             ...req.body,
+            quantity: finalQuantity,
             createdBY:req.user.id
         })
 
